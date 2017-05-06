@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="tictactoe.css">
+</head>
+
+<body>
+
+<div class="container">
+	<div class="header" id = "header">
+		<h1>TIC-TAC-TOE</h1>
+	</div>
+
+	<div class="gameBox">
+		<div class="message" id="message"> Player 1 to Go
+		</div>
+		<div class = "gameContainer" id = "gameContainer">
+				<!-- built in js -->
+		</div>
+			<table>
+<!--				<caption>Score</caption> -->
+				<tr>
+					<th>Player 1</th>
+					<th>Player 2</th>
+					<th>Draw</th>
+				</tr>
+				<tr>
+					<td id="p1Score">0</td>
+					<td id="p2Score">0</td>
+					<td id="drawScore">0</td>
+				</tr>
+			</table>
+
+		<button id="playAgain">Play Again</button>
+	</div>
+
+	<div class="footer" id="footer">
+		<p>Darryl Cohen 2017 &#169</p>
+	</div>
+
+</div>
+
+</body>
+<script src="tictactoeObject.js"></script>
+</html>

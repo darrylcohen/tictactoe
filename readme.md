@@ -5,9 +5,13 @@ Darryl Cohen
 
 <img src=https://ibin.co/3a6a5yqSWXW2.jpg width="300">
 
-The Problem
+## The Problem
 
-Create the game tictactoe and keep track of the score
+Create the game tic_tac_toe and keep track of the score
+
+## My Solution
+
+[My Design](https://github.com/darrylcohen/dot_to_dot/blob/master/design.pdf)
 
 [Play the Game](https://darrylcohen.github.io/tictactoe/)
 

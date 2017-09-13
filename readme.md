@@ -11,7 +11,7 @@ Create the game tic_tac_toe and keep track of the score
 
 ## My Solution
 
-[My Design](https://github.com/darrylcohen/dot_to_dot/blob/master/design.pdf)
+[My Design](https://github.com/darrylcohen/tictactoe/blob/master/design.pdf)
 
 [Play the Game](https://darrylcohen.github.io/tictactoe/)
 
